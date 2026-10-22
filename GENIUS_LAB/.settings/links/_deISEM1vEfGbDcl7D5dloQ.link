@@ -1,0 +1,133 @@
+{
+  "itemId" : "_deISEM1vEfGbDcl7D5dloQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_sSwHgM1wEfGbDcl7D5dloQ",
+    "parameterList" : [ {
+      "id" : "_I2tqlMydEfGV_aY9_1EdzQ",
+      "name" : "DB_BASEDATOS"
+    }, {
+      "id" : "_I2tqlcydEfGV_aY9_1EdzQ",
+      "name" : "DB_HOST"
+    }, {
+      "id" : "_I2tqksydEfGV_aY9_1EdzQ",
+      "name" : "DB_PASSWORD"
+    }, {
+      "id" : "_I2tqk8ydEfGV_aY9_1EdzQ",
+      "name" : "DB_PORT"
+    }, {
+      "id" : "_I2tqkcydEfGV_aY9_1EdzQ",
+      "name" : "DB_USER"
+    }, {
+      "id" : "_hLRcwc1wEfGbDcl7D5dloQ",
+      "name" : "ENV_NAME"
+    }, {
+      "id" : "_6Q6HsMywEfGV_aY9_1EdzQ",
+      "name" : "FILE_OLIST_CUSTOMERS"
+    }, {
+      "id" : "_I2tql8ydEfGV_aY9_1EdzQ",
+      "name" : "FILE_OLIST_ORDERS"
+    }, {
+      "id" : "_hLRcwM1wEfGbDcl7D5dloQ",
+      "name" : "FILE_OLIST_PRODUCTS"
+    }, {
+      "id" : "_I2tqlsydEfGV_aY9_1EdzQ",
+      "name" : "LOAD_SOURCE_TAG"
+    }, {
+      "id" : "_p4mDIc15EfGmYJAGkA5gpw",
+      "name" : "LOAD_SOURCE_TAG_ORDERS"
+    }, {
+      "id" : "_p4mDIM15EfGmYJAGkA5gpw",
+      "name" : "LOAD_SOURCE_TAG_PRODUCTS"
+    }, {
+      "id" : "_hLRcws1wEfGbDcl7D5dloQ",
+      "name" : "PIPELINE_NAME"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_sSwHgM1wEfGbDcl7D5dloQ",
+    "parameterList" : [ {
+      "id" : "_q8VoAc2NEfGmYJAGkA5gpw",
+      "name" : "DB_USER"
+    }, {
+      "id" : "_q8VoAs2NEfGmYJAGkA5gpw",
+      "name" : "DB_PASSWORD"
+    }, {
+      "id" : "_q8VoA82NEfGmYJAGkA5gpw",
+      "name" : "DB_PORT"
+    }, {
+      "id" : "_q8VoBM2NEfGmYJAGkA5gpw",
+      "name" : "DB_BASEDATOS"
+    }, {
+      "id" : "_q8VoBc2NEfGmYJAGkA5gpw",
+      "name" : "DB_HOST"
+    }, {
+      "id" : "_q8VoBs2NEfGmYJAGkA5gpw",
+      "name" : "LOAD_SOURCE_TAG"
+    }, {
+      "id" : "_q8VoB82NEfGmYJAGkA5gpw",
+      "name" : "FILE_OLIST_ORDERS"
+    }, {
+      "id" : "_q8VoCM2NEfGmYJAGkA5gpw",
+      "name" : "FILE_OLIST_CUSTOMERS"
+    }, {
+      "id" : "_q8VoCc2NEfGmYJAGkA5gpw",
+      "name" : "FILE_OLIST_PRODUCTS"
+    }, {
+      "id" : "_q8VoCs2NEfGmYJAGkA5gpw",
+      "name" : "ENV_NAME"
+    }, {
+      "id" : "_q8VoC82NEfGmYJAGkA5gpw",
+      "name" : "PIPELINE_NAME"
+    }, {
+      "id" : "_q8VoDM2NEfGmYJAGkA5gpw",
+      "name" : "LOAD_SOURCE_TAG_PRODUCTS"
+    }, {
+      "id" : "_q8VoDc2NEfGmYJAGkA5gpw",
+      "name" : "LOAD_SOURCE_TAG_ORDERS"
+    } ]
+  }, {
+    "contextName" : "QA",
+    "repoId" : "_sSwHgM1wEfGbDcl7D5dloQ",
+    "parameterList" : [ {
+      "id" : "_q8VoD82NEfGmYJAGkA5gpw",
+      "name" : "DB_USER"
+    }, {
+      "id" : "_q8VoEM2NEfGmYJAGkA5gpw",
+      "name" : "DB_PASSWORD"
+    }, {
+      "id" : "_q8VoEc2NEfGmYJAGkA5gpw",
+      "name" : "DB_PORT"
+    }, {
+      "id" : "_q8VoEs2NEfGmYJAGkA5gpw",
+      "name" : "DB_BASEDATOS"
+    }, {
+      "id" : "_q8VoE82NEfGmYJAGkA5gpw",
+      "name" : "DB_HOST"
+    }, {
+      "id" : "_q8VoFM2NEfGmYJAGkA5gpw",
+      "name" : "LOAD_SOURCE_TAG"
+    }, {
+      "id" : "_q8VoFc2NEfGmYJAGkA5gpw",
+      "name" : "FILE_OLIST_ORDERS"
+    }, {
+      "id" : "_q8VoFs2NEfGmYJAGkA5gpw",
+      "name" : "FILE_OLIST_CUSTOMERS"
+    }, {
+      "id" : "_q8VoF82NEfGmYJAGkA5gpw",
+      "name" : "FILE_OLIST_PRODUCTS"
+    }, {
+      "id" : "_q8VoGM2NEfGmYJAGkA5gpw",
+      "name" : "ENV_NAME"
+    }, {
+      "id" : "_q8VoGc2NEfGmYJAGkA5gpw",
+      "name" : "PIPELINE_NAME"
+    }, {
+      "id" : "_q8VoGs2NEfGmYJAGkA5gpw",
+      "name" : "LOAD_SOURCE_TAG_PRODUCTS"
+    }, {
+      "id" : "_q8VoG82NEfGmYJAGkA5gpw",
+      "name" : "LOAD_SOURCE_TAG_ORDERS"
+    } ]
+  } ]
+}

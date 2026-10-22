@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_I2tDgMydEfGV_aY9_1EdzQ" confirmationNeeded="false" hide="false" name="Default">
+    <contextParameter xmi:id="_I2tqkcydEfGV_aY9_1EdzQ" comment="" name="DB_USER" prompt="DB_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dev_genius"/>
+    <contextParameter xmi:id="_I2tqksydEfGV_aY9_1EdzQ" comment="" name="DB_PASSWORD" prompt="DB_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="CambiarEsta#2026"/>
+    <contextParameter xmi:id="_I2tqk8ydEfGV_aY9_1EdzQ" comment="" name="DB_PORT" prompt="DB_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_I2tqlMydEfGV_aY9_1EdzQ" comment="" name="DB_BASEDATOS" prompt="DB_BASEDATOS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DSADEV"/>
+    <contextParameter xmi:id="_I2tqlcydEfGV_aY9_1EdzQ" comment="" name="DB_HOST" prompt="DB_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="209.50.245.36"/>
+    <contextParameter xmi:id="_I2tqlsydEfGV_aY9_1EdzQ" comment="" name="LOAD_SOURCE_TAG" prompt="LOAD_SOURCE_TAG?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_customers_subjob"/>
+    <contextParameter xmi:id="_I2tql8ydEfGV_aY9_1EdzQ" comment="" name="FILE_OLIST_ORDERS" prompt="FILE_OLIST_ORDERS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ModuloTalent/Fuente/Fuentes/Fuente/"/>
+    <contextParameter xmi:id="_6Q6HsMywEfGV_aY9_1EdzQ" comment="" name="FILE_OLIST_CUSTOMERS" prompt="FILE_OLIST_CUSTOMERS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ModuloTalent/Fuente/Fuentes/Fuente/"/>
+    <contextParameter xmi:id="_hLRcwM1wEfGbDcl7D5dloQ" comment="" name="FILE_OLIST_PRODUCTS" prompt="FILE_OLIST_PRODUCTS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ModuloTalent/Fuente/Fuentes/Fuente/"/>
+    <contextParameter xmi:id="_hLRcwc1wEfGbDcl7D5dloQ" comment="" name="ENV_NAME" prompt="ENV_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dev"/>
+    <contextParameter xmi:id="_hLRcws1wEfGbDcl7D5dloQ" comment="" name="PIPELINE_NAME" prompt="PIPELINE_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_pipeline"/>
+    <contextParameter xmi:id="_p4mDIM15EfGmYJAGkA5gpw" comment="" name="LOAD_SOURCE_TAG_PRODUCTS" prompt="LOAD_SOURCE_TAG_PRODUCTS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_products_subjob"/>
+    <contextParameter xmi:id="_p4mDIc15EfGmYJAGkA5gpw" comment="" name="LOAD_SOURCE_TAG_ORDERS" prompt="LOAD_SOURCE_TAG_ORDERS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_orders_subjob"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_q8VoAM2NEfGmYJAGkA5gpw" confirmationNeeded="false" hide="false" name="PROD">
+    <contextParameter xmi:id="_q8VoAc2NEfGmYJAGkA5gpw" comment="" name="DB_USER" prompt="DB_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dev_genius"/>
+    <contextParameter xmi:id="_q8VoAs2NEfGmYJAGkA5gpw" comment="" name="DB_PASSWORD" prompt="DB_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="CambiarEsta#2026"/>
+    <contextParameter xmi:id="_q8VoA82NEfGmYJAGkA5gpw" comment="" name="DB_PORT" prompt="DB_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_q8VoBM2NEfGmYJAGkA5gpw" comment="" name="DB_BASEDATOS" prompt="DB_BASEDATOS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DSADEV"/>
+    <contextParameter xmi:id="_q8VoBc2NEfGmYJAGkA5gpw" comment="" name="DB_HOST" prompt="DB_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="209.50.245.36"/>
+    <contextParameter xmi:id="_q8VoBs2NEfGmYJAGkA5gpw" comment="" name="LOAD_SOURCE_TAG" prompt="LOAD_SOURCE_TAG?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_customers_subjob"/>
+    <contextParameter xmi:id="_q8VoB82NEfGmYJAGkA5gpw" comment="" name="FILE_OLIST_ORDERS" prompt="FILE_OLIST_ORDERS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ModuloTalent/Fuente/Fuentes/Fuente/"/>
+    <contextParameter xmi:id="_q8VoCM2NEfGmYJAGkA5gpw" comment="" name="FILE_OLIST_CUSTOMERS" prompt="FILE_OLIST_CUSTOMERS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ModuloTalent/Fuente/Fuentes/Fuente/"/>
+    <contextParameter xmi:id="_q8VoCc2NEfGmYJAGkA5gpw" comment="" name="FILE_OLIST_PRODUCTS" prompt="FILE_OLIST_PRODUCTS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ModuloTalent/Fuente/Fuentes/Fuente/"/>
+    <contextParameter xmi:id="_q8VoCs2NEfGmYJAGkA5gpw" comment="" name="ENV_NAME" prompt="ENV_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dev"/>
+    <contextParameter xmi:id="_q8VoC82NEfGmYJAGkA5gpw" comment="" name="PIPELINE_NAME" prompt="PIPELINE_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_pipeline"/>
+    <contextParameter xmi:id="_q8VoDM2NEfGmYJAGkA5gpw" comment="" name="LOAD_SOURCE_TAG_PRODUCTS" prompt="LOAD_SOURCE_TAG_PRODUCTS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_products_subjob"/>
+    <contextParameter xmi:id="_q8VoDc2NEfGmYJAGkA5gpw" comment="" name="LOAD_SOURCE_TAG_ORDERS" prompt="LOAD_SOURCE_TAG_ORDERS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_orders_subjob"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_q8VoDs2NEfGmYJAGkA5gpw" confirmationNeeded="false" hide="false" name="QA">
+    <contextParameter xmi:id="_q8VoD82NEfGmYJAGkA5gpw" comment="" name="DB_USER" prompt="DB_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dev_genius"/>
+    <contextParameter xmi:id="_q8VoEM2NEfGmYJAGkA5gpw" comment="" name="DB_PASSWORD" prompt="DB_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="CambiarEsta#2026"/>
+    <contextParameter xmi:id="_q8VoEc2NEfGmYJAGkA5gpw" comment="" name="DB_PORT" prompt="DB_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_q8VoEs2NEfGmYJAGkA5gpw" comment="" name="DB_BASEDATOS" prompt="DB_BASEDATOS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DSADEV"/>
+    <contextParameter xmi:id="_q8VoE82NEfGmYJAGkA5gpw" comment="" name="DB_HOST" prompt="DB_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="209.50.245.36"/>
+    <contextParameter xmi:id="_q8VoFM2NEfGmYJAGkA5gpw" comment="" name="LOAD_SOURCE_TAG" prompt="LOAD_SOURCE_TAG?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_customers_subjob"/>
+    <contextParameter xmi:id="_q8VoFc2NEfGmYJAGkA5gpw" comment="" name="FILE_OLIST_ORDERS" prompt="FILE_OLIST_ORDERS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ModuloTalent/Fuente/Fuentes/Fuente/"/>
+    <contextParameter xmi:id="_q8VoFs2NEfGmYJAGkA5gpw" comment="" name="FILE_OLIST_CUSTOMERS" prompt="FILE_OLIST_CUSTOMERS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ModuloTalent/Fuente/Fuentes/Fuente/"/>
+    <contextParameter xmi:id="_q8VoF82NEfGmYJAGkA5gpw" comment="" name="FILE_OLIST_PRODUCTS" prompt="FILE_OLIST_PRODUCTS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/ModuloTalent/Fuente/Fuentes/Fuente/"/>
+    <contextParameter xmi:id="_q8VoGM2NEfGmYJAGkA5gpw" comment="" name="ENV_NAME" prompt="ENV_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dev"/>
+    <contextParameter xmi:id="_q8VoGc2NEfGmYJAGkA5gpw" comment="" name="PIPELINE_NAME" prompt="PIPELINE_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_pipeline"/>
+    <contextParameter xmi:id="_q8VoGs2NEfGmYJAGkA5gpw" comment="" name="LOAD_SOURCE_TAG_PRODUCTS" prompt="LOAD_SOURCE_TAG_PRODUCTS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_products_subjob"/>
+    <contextParameter xmi:id="_q8VoG82NEfGmYJAGkA5gpw" comment="" name="LOAD_SOURCE_TAG_ORDERS" prompt="LOAD_SOURCE_TAG_ORDERS?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_orders_subjob"/>
+  </talendfile:ContextType>
+</xmi:XMI>
